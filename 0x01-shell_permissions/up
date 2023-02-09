@@ -1,0 +1,7 @@
+#!/bin/bash
+chmod 777 *
+git add .
+git commit -m 'bash script commit'
+expect""
+send"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"
+
