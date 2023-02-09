@@ -2,4 +2,4 @@
 chmod 777 *
 git add .
 git commit -m 'bash script commit'
-spawn git push
+git push
