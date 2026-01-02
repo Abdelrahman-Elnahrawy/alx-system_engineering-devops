@@ -25,13 +25,7 @@ The projects in this repository track the evolution of a web stack, moving from 
 | **0x01-shell_permissions** | Linux user privileges, group management, and `chmod`/`chown`. |
 | **0x02-shell_redirections** | I/O redirection, standard streams, and data filtering with filters. |
 | **0x03-shell_variables_expansions** | Shell arithmetic, local/global variables, and alias configurations. |
-| **0x04-loops_conditions_and_parsing** | Logic flow automation and text processing using `AWK` and `Sed`. |
-| **0x05-processes_and_signals** | Process management, PID tracking, and signal handling (`kill`, `trap`). |
-| **0x06-signals** | Specialized shell scripting for signal management. |
-| **0x07-networking_basics** | OSI Model foundations, IP protocols, and port analysis. |
-| **0x08-ssh** | Secure Shell configuration and hardened key-based authentication. |
-| **0x0A-configuration_management** | Infrastructure as Code (IaC) implementation using **Puppet**. |
-| **0x0B-ssh** | Automated SSH configuration and management scripts. |
+
 
 
 ---
